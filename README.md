@@ -2,7 +2,7 @@
 
 # Film Fragmanı Sınıflandırma Projesi 
 
-Bu proje, bir filmin fragmanını değerlendirerek, içeriğinin 18 yaş üstü izleyiciler için uygun olup olmadığını sınıflandırmayı amaçlamaktadır. Makine öğrenmesi teknikleri kullanılarak, bir fragmanın görsel unsurları analiz edilip, sınıflandırma yapılacaktır.
+Bu proje, bir filmin fragmanını değerlendirerek, içeriğinin 18 yaş üstü izleyiciler için uygun olup olmadığını sınıflandırmayı amaçlamaktadır. Makine öğrenmesi teknikleri kullanılarak, bir fragmanın görsel unsurları analiz edilip sınıflandırma yapılacaktır.
 
 ## Proje Hakkında
 
